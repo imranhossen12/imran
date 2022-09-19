@@ -5,7 +5,7 @@ body{
 .imran{
     color: orange;
 }
-section{
+.harun{
     display: flex;
 }
 .hossen{
@@ -30,9 +30,40 @@ section{
 .anawar{
     padding-right: 25px;
 }
-.liniya{
+#liniya{
     padding-top: 200px;
 }
 .kana{
     padding-left: 50px;
+}
+
+.kasem{
+    display: flex;
+}
+.likhon{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+#akssmin{
+    border-left: 7px solid;
+border-image: linear-gradient(blue, cyan);
+border-image-slice: 1;
+}
+#aks-smin{
+    border-left: 7px solid;
+border-image: linear-gradient(green, red);
+border-image-slice: 1;
+}
+
+h3{
+    color: red;
+}
+footer{
+    text-align: center;
+    color: red;
+padding-top: 80px;
 }
