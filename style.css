@@ -1,0 +1,38 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+}
+.imran{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.hossen{
+    text-decoration: none;
+    background-image: linear-gradient(blue, orange 60%);
+    color: white;
+    font-weight: 700;
+    padding: 10px  40px;
+    border-radius: 5px;
+}
+.nana{
+    text-decoration: none;
+    background-image:linear-gradient(orange,tomato);
+    font-weight: 700;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.ospita{
+    padding-left: 40px;
+}
+.anawar{
+    padding-right: 25px;
+}
+.liniya{
+    padding-top: 200px;
+}
+.kana{
+    padding-left: 50px;
+}
